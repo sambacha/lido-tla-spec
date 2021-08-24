@@ -1,0 +1,11 @@
+{
+  "name": "lido-tla-spec",
+  "version": "0.1.0",
+  "description": "lido finance protocol specification in tla+",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "sam bacha <sam@manifoldfinance.com>",
+  "license": "GPL-2.0"
+}
