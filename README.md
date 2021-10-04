@@ -71,7 +71,7 @@ if LeaderAge(Selected, Divergent) = LeaderAge(current, Divergent) then
 if Binary(Selected,Divergent) < Binary(current, Divergent) then
 Selected ← current
 return Selected
-
+```
 
 #### VerifyBranch
 
